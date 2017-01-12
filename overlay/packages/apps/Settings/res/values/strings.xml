@@ -16,4 +16,9 @@
     <!-- Regex which controls the output of the 'Processor' summary text in Settings > About Phone -->
     <string name="processor_regex" translatable="false">Processor\\s*:\\s*(.*?)(?:\\(.*)?$</string>
 
+    <!-- Maintainer information -->
+    <string name="krexus_about_maintainer_title">Bill Blandford</string>
+    <string name="krexus_about_maintainer_summary">buffal0b1ll</string>
+    <string name="krexus_about_maintainer_url">https://plus.google.com/+BillBlandford</string>
+
 </resources>
